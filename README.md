@@ -32,11 +32,7 @@ I'm Sreehari PR, a highly skilled MERN stack developer experienced in crafting d
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-
-<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
-<a/> <br/>
-<a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
-<a/>
- <br/>
-<a><img src="https://skillicons.dev/icons?i=postman,figma,mysql,postgresql,nginx" />
-<a/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,mongodb,c,java,mysql,redux" /><br>
+</div>
