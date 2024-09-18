@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.instagram.com/sreehari p r/">
+  <img align="left" alt="Sreehari's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="www.linkedin.com/in/sreehari-p-r-92a2a5221">
+  <img align="left" alt="Malik's Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+</a>
+<br/>
+
+
+I'm Sreehari PR, a highly skilled MERN stack developer experienced in crafting dynamic front-end interfaces and robust backend solutions.Through my self learning,I've honed my skills in designing RESTful APIs and staying with current industry trends for innovative web development.My passion for software lies with dreaming up ideas and making them come true.I take great care in the experience, architecture, and code quality of the things I build.
+
+
+  
+- 💼 any freelance work? do reach, [email](mailto:sreehari1698@gmail.com) :)
+- 💬 ask me about anything, i am happy to help;
+
+**languages and tools:**  
+
+<a><img src="https://skillicons.dev/icons?i=nodejs,mongodb,js,ts,express" />
+<a/> <br/>
+<a><img src="https://skillicons.dev/icons?i=aws,firebase,git,react,redux" />
+<a/>
+ <br/>
+<a><img src="https://skillicons.dev/icons?i=postman,figma,mysql,postgresql,nginx" />
+<a/>
