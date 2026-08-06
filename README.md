@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://www.instagram.com/sreehari p r/">
-  <img align="left" alt="Sreehari's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Sreehari's Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />
 </a>
 
 <a href="www.linkedin.com/in/sreehari-p-r-92a2a5221">
-  <img align="left" alt="Malik's Discord" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+  <img align="left" alt="Malik's Discord" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
 </a>
 <br/>
 
